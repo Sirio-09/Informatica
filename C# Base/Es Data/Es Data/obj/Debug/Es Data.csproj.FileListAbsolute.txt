@@ -1,0 +1,7 @@
+C:\Users\s.perrone.4104\Desktop\Es Data\Es Data\obj\Debug\Es Data.csproj.AssemblyReference.cache
+C:\Users\s.perrone.4104\Desktop\Es Data\Es Data\obj\Debug\Es Data.csproj.CoreCompileInputs.cache
+C:\Users\s.perrone.4104\Desktop\Es Data\Es Data\bin\Debug\Es Data.exe.config
+C:\Users\s.perrone.4104\Desktop\Es Data\Es Data\bin\Debug\Es Data.exe
+C:\Users\s.perrone.4104\Desktop\Es Data\Es Data\bin\Debug\Es Data.pdb
+C:\Users\s.perrone.4104\Desktop\Es Data\Es Data\obj\Debug\Es Data.exe
+C:\Users\s.perrone.4104\Desktop\Es Data\Es Data\obj\Debug\Es Data.pdb

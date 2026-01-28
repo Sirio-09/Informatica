@@ -1,0 +1,7 @@
+C:\Users\s.perrone.4104\Desktop\Es 2 Pag 84\Es 2 Pag 84\bin\Debug\Es 2 Pag 84.exe.config
+C:\Users\s.perrone.4104\Desktop\Es 2 Pag 84\Es 2 Pag 84\bin\Debug\Es 2 Pag 84.exe
+C:\Users\s.perrone.4104\Desktop\Es 2 Pag 84\Es 2 Pag 84\bin\Debug\Es 2 Pag 84.pdb
+C:\Users\s.perrone.4104\Desktop\Es 2 Pag 84\Es 2 Pag 84\obj\Debug\Es 2 Pag 84.csproj.AssemblyReference.cache
+C:\Users\s.perrone.4104\Desktop\Es 2 Pag 84\Es 2 Pag 84\obj\Debug\Es 2 Pag 84.csproj.CoreCompileInputs.cache
+C:\Users\s.perrone.4104\Desktop\Es 2 Pag 84\Es 2 Pag 84\obj\Debug\Es 2 Pag 84.exe
+C:\Users\s.perrone.4104\Desktop\Es 2 Pag 84\Es 2 Pag 84\obj\Debug\Es 2 Pag 84.pdb

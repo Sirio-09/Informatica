@@ -1,0 +1,7 @@
+C:\Users\elena\OneDrive\Desktop\Es Bliblioteca Vacanze NATALE\Es Bliblioteca Vacanze NATALE\obj\Debug\Es Bliblioteca Vacanze NATALE.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Desktop\Es Bliblioteca Vacanze NATALE\Es Bliblioteca Vacanze NATALE\obj\Debug\Es Bliblioteca Vacanze NATALE.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Desktop\Es Bliblioteca Vacanze NATALE\Es Bliblioteca Vacanze NATALE\bin\Debug\Es Bliblioteca Vacanze NATALE.exe.config
+C:\Users\elena\OneDrive\Desktop\Es Bliblioteca Vacanze NATALE\Es Bliblioteca Vacanze NATALE\bin\Debug\Es Bliblioteca Vacanze NATALE.exe
+C:\Users\elena\OneDrive\Desktop\Es Bliblioteca Vacanze NATALE\Es Bliblioteca Vacanze NATALE\bin\Debug\Es Bliblioteca Vacanze NATALE.pdb
+C:\Users\elena\OneDrive\Desktop\Es Bliblioteca Vacanze NATALE\Es Bliblioteca Vacanze NATALE\obj\Debug\Es Bliblioteca Vacanze NATALE.exe
+C:\Users\elena\OneDrive\Desktop\Es Bliblioteca Vacanze NATALE\Es Bliblioteca Vacanze NATALE\obj\Debug\Es Bliblioteca Vacanze NATALE.pdb

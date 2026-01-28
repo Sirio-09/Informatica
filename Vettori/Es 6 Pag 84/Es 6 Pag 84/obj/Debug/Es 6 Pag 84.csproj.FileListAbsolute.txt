@@ -1,0 +1,7 @@
+C:\Users\elena\OneDrive\Desktop\Es 6 Pag 84\Es 6 Pag 84\bin\Debug\Es 6 Pag 84.exe.config
+C:\Users\elena\OneDrive\Desktop\Es 6 Pag 84\Es 6 Pag 84\bin\Debug\Es 6 Pag 84.exe
+C:\Users\elena\OneDrive\Desktop\Es 6 Pag 84\Es 6 Pag 84\bin\Debug\Es 6 Pag 84.pdb
+C:\Users\elena\OneDrive\Desktop\Es 6 Pag 84\Es 6 Pag 84\obj\Debug\Es 6 Pag 84.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Desktop\Es 6 Pag 84\Es 6 Pag 84\obj\Debug\Es 6 Pag 84.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Desktop\Es 6 Pag 84\Es 6 Pag 84\obj\Debug\Es 6 Pag 84.exe
+C:\Users\elena\OneDrive\Desktop\Es 6 Pag 84\Es 6 Pag 84\obj\Debug\Es 6 Pag 84.pdb

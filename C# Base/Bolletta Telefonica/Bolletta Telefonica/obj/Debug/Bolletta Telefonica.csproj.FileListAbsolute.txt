@@ -1,0 +1,7 @@
+C:\Users\s.perrone.4104\Desktop\Esercizi C#\Bolletta Telefonica\Bolletta Telefonica\bin\Debug\01.exe.config
+C:\Users\s.perrone.4104\Desktop\Esercizi C#\Bolletta Telefonica\Bolletta Telefonica\bin\Debug\01.exe
+C:\Users\s.perrone.4104\Desktop\Esercizi C#\Bolletta Telefonica\Bolletta Telefonica\bin\Debug\01.pdb
+C:\Users\s.perrone.4104\Desktop\Esercizi C#\Bolletta Telefonica\Bolletta Telefonica\obj\Debug\Bolletta Telefonica.csproj.AssemblyReference.cache
+C:\Users\s.perrone.4104\Desktop\Esercizi C#\Bolletta Telefonica\Bolletta Telefonica\obj\Debug\Bolletta Telefonica.csproj.CoreCompileInputs.cache
+C:\Users\s.perrone.4104\Desktop\Esercizi C#\Bolletta Telefonica\Bolletta Telefonica\obj\Debug\01.exe
+C:\Users\s.perrone.4104\Desktop\Esercizi C#\Bolletta Telefonica\Bolletta Telefonica\obj\Debug\01.pdb

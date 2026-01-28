@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s.perrone.4104\\Desktop\\Ricerca Dicotomica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34048D69-3EBD-43A7-A601-7362BC5544EB}|Ricerca Dicotomica\\Ricerca Dicotomica.csproj|c:\\users\\s.perrone.4104\\desktop\\ricerca dicotomica\\ricerca dicotomica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34048D69-3EBD-43A7-A601-7362BC5544EB}|Ricerca Dicotomica\\Ricerca Dicotomica.csproj|solutionrelative:ricerca dicotomica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s.perrone.4104\\Desktop\\Ricerca Dicotomica\\Ricerca Dicotomica\\Program.cs",
+              "RelativeDocumentMoniker": "Ricerca Dicotomica\\Program.cs",
+              "ToolTip": "C:\\Users\\s.perrone.4104\\Desktop\\Ricerca Dicotomica\\Ricerca Dicotomica\\Program.cs",
+              "RelativeToolTip": "Ricerca Dicotomica\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T10:08:39.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

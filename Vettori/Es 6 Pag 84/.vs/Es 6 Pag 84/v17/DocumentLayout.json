@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elena\\OneDrive\\Desktop\\Es 6 Pag 84\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{116F9E74-8A96-4531-A25D-D49181968784}|Es 6 Pag 84\\Es 6 Pag 84.csproj|c:\\users\\elena\\onedrive\\desktop\\es 6 pag 84\\es 6 pag 84\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116F9E74-8A96-4531-A25D-D49181968784}|Es 6 Pag 84\\Es 6 Pag 84.csproj|solutionrelative:es 6 pag 84\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elena\\OneDrive\\Desktop\\Es 6 Pag 84\\Es 6 Pag 84\\Program.cs",
+              "RelativeDocumentMoniker": "Es 6 Pag 84\\Program.cs",
+              "ToolTip": "C:\\Users\\elena\\OneDrive\\Desktop\\Es 6 Pag 84\\Es 6 Pag 84\\Program.cs",
+              "RelativeToolTip": "Es 6 Pag 84\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAADgv34AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T19:58:06.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

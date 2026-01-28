@@ -1,0 +1,8 @@
+C:\Users\s.perrone.4104\Desktop\Correzione Verifica TEORIA 2\Correzione Verifica 2 TEORIA (Es 3)\Correzione Verifica 2 TEORIA (Es 3)\bin\Debug\Correzione Verifica 2 TEORIA (Es 3).exe.config
+C:\Users\s.perrone.4104\Desktop\Correzione Verifica TEORIA 2\Correzione Verifica 2 TEORIA (Es 3)\Correzione Verifica 2 TEORIA (Es 3)\bin\Debug\Correzione Verifica 2 TEORIA (Es 3).exe
+C:\Users\s.perrone.4104\Desktop\Correzione Verifica TEORIA 2\Correzione Verifica 2 TEORIA (Es 3)\Correzione Verifica 2 TEORIA (Es 3)\bin\Debug\Correzione Verifica 2 TEORIA (Es 3).pdb
+C:\Users\s.perrone.4104\Desktop\Correzione Verifica TEORIA 2\Correzione Verifica 2 TEORIA (Es 3)\Correzione Verifica 2 TEORIA (Es 3)\obj\Debug\Correzione Verifica 2 TEORIA (Es 3).csproj.AssemblyReference.cache
+C:\Users\s.perrone.4104\Desktop\Correzione Verifica TEORIA 2\Correzione Verifica 2 TEORIA (Es 3)\Correzione Verifica 2 TEORIA (Es 3)\obj\Debug\Correzione Verifica 2 TEORIA (Es 3).csproj.CoreCompileInputs.cache
+C:\Users\s.perrone.4104\Desktop\Correzione Verifica TEORIA 2\Correzione Verifica 2 TEORIA (Es 3)\Correzione Verifica 2 TEORIA (Es 3)\obj\Debug\Correzione Verifica 2 TEORIA (Es 3).exe
+C:\Users\s.perrone.4104\Desktop\Correzione Verifica TEORIA 2\Correzione Verifica 2 TEORIA (Es 3)\Correzione Verifica 2 TEORIA (Es 3)\obj\Debug\Correzione Verifica 2 TEORIA (Es 3).pdb
+C:\Users\s.perrone.4104\Desktop\Correzione Verifica TEORIA 2\Correzione Verifica 2 TEORIA (Es 3)\Correzione Verifica 2 TEORIA (Es 3)\obj\Debug\Correzione Verifica 2 TEORIA (Es 3).exe.config
