@@ -1,0 +1,7 @@
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Funzioni Fondamentali\Es 12 Pag 115\Es 12 Pag 115\bin\Debug\Es 12 Pag 115.exe.config
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Funzioni Fondamentali\Es 12 Pag 115\Es 12 Pag 115\bin\Debug\Es 12 Pag 115.exe
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Funzioni Fondamentali\Es 12 Pag 115\Es 12 Pag 115\bin\Debug\Es 12 Pag 115.pdb
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Funzioni Fondamentali\Es 12 Pag 115\Es 12 Pag 115\obj\Debug\Es 12 Pag 115.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Funzioni Fondamentali\Es 12 Pag 115\Es 12 Pag 115\obj\Debug\Es 12 Pag 115.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Funzioni Fondamentali\Es 12 Pag 115\Es 12 Pag 115\obj\Debug\Es 12 Pag 115.exe
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Funzioni Fondamentali\Es 12 Pag 115\Es 12 Pag 115\obj\Debug\Es 12 Pag 115.pdb
