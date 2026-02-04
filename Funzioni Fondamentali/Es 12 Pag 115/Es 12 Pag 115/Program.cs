@@ -27,22 +27,18 @@ namespace Es_12_Pag_115
             "Mondadori", "Feltrinelli", "Garzanti", "Mondadori"
         };
 
-        public static int ContaLibri(string genere, string editore)
+        private static int ContaLibri(string genere, string editore)
         {
             int contatore = 0;
 
             for (int i = 0; i < titoli.Length; i++)
             {
-                bool genereMatch = generi[i].Equals(genere, StringComparison.OrdinalIgnoreCase);
-                bool editoreMatch = caseEditrici[i].Equals(editore, StringComparison.OrdinalIgnoreCase);
-
-                if (genereMatch && editoreMatch)
+                if (generi[i] == genere && caseEditrici[i] == editore)
                 {
                     contatore++;
                     Console.WriteLine($"Trovato: {titoli[i]}");
                 }
             }
-
             return contatore;
         }
 
