@@ -1,0 +1,7 @@
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Matrici\Es 42 Pag 85\Es 42 Pag 85\bin\Debug\Es 42 Pag 85.exe.config
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Matrici\Es 42 Pag 85\Es 42 Pag 85\bin\Debug\Es 42 Pag 85.exe
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Matrici\Es 42 Pag 85\Es 42 Pag 85\bin\Debug\Es 42 Pag 85.pdb
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Matrici\Es 42 Pag 85\Es 42 Pag 85\obj\Debug\Es 42 Pag 85.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Matrici\Es 42 Pag 85\Es 42 Pag 85\obj\Debug\Es 42 Pag 85.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Matrici\Es 42 Pag 85\Es 42 Pag 85\obj\Debug\Es 42 Pag 85.exe
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Matrici\Es 42 Pag 85\Es 42 Pag 85\obj\Debug\Es 42 Pag 85.pdb

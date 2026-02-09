@@ -61,8 +61,6 @@ namespace Es_13_Pag_115
 
             Console.ReadKey();
         }
-
-        
     }
 }
 
