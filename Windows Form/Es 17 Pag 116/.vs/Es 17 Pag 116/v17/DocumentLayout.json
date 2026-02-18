@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\Windows Form\\Es 17 Pag 116\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{080F0B9B-A2BC-4BB3-BB0D-A55A5884BD90}|Es 17 Pag 116\\Es 17 Pag 116.csproj|c:\\users\\s.perrone.4104\\desktop\\informatica\\windows form\\es 17 pag 116\\es 17 pag 116\\formcanzoni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{080F0B9B-A2BC-4BB3-BB0D-A55A5884BD90}|Es 17 Pag 116\\Es 17 Pag 116.csproj|solutionrelative:es 17 pag 116\\formcanzoni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{080F0B9B-A2BC-4BB3-BB0D-A55A5884BD90}|Es 17 Pag 116\\Es 17 Pag 116.csproj|c:\\users\\s.perrone.4104\\desktop\\informatica\\windows form\\es 17 pag 116\\es 17 pag 116\\formcanzoni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{080F0B9B-A2BC-4BB3-BB0D-A55A5884BD90}|Es 17 Pag 116\\Es 17 Pag 116.csproj|solutionrelative:es 17 pag 116\\formcanzoni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{080F0B9B-A2BC-4BB3-BB0D-A55A5884BD90}|Es 17 Pag 116\\Es 17 Pag 116.csproj|c:\\users\\s.perrone.4104\\desktop\\informatica\\windows form\\es 17 pag 116\\es 17 pag 116\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{080F0B9B-A2BC-4BB3-BB0D-A55A5884BD90}|Es 17 Pag 116\\Es 17 Pag 116.csproj|C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\Windows Form\\Es 17 Pag 116\\es 17 pag 116\\formcanzoni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{080F0B9B-A2BC-4BB3-BB0D-A55A5884BD90}|Es 17 Pag 116\\Es 17 Pag 116.csproj|solutionrelative:es 17 pag 116\\formcanzoni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080F0B9B-A2BC-4BB3-BB0D-A55A5884BD90}|Es 17 Pag 116\\Es 17 Pag 116.csproj|C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\Windows Form\\Es 17 Pag 116\\es 17 pag 116\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{080F0B9B-A2BC-4BB3-BB0D-A55A5884BD90}|Es 17 Pag 116\\Es 17 Pag 116.csproj|solutionrelative:es 17 pag 116\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -34,12 +38,11 @@
               "RelativeToolTip": "Es 17 Pag 116\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T10:51:42.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T10:51:42.685Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FormCanzoni.cs [Progettazione]",
               "DocumentMoniker": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\Windows Form\\Es 17 Pag 116\\Es 17 Pag 116\\FormCanzoni.cs",
               "RelativeDocumentMoniker": "Es 17 Pag 116\\FormCanzoni.cs",
@@ -51,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FormCanzoni.cs",
               "DocumentMoniker": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\Windows Form\\Es 17 Pag 116\\Es 17 Pag 116\\FormCanzoni.cs",
               "RelativeDocumentMoniker": "Es 17 Pag 116\\FormCanzoni.cs",
               "ToolTip": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\Windows Form\\Es 17 Pag 116\\Es 17 Pag 116\\FormCanzoni.cs",
               "RelativeToolTip": "Es 17 Pag 116\\FormCanzoni.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwC0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T10:40:02.107Z",
               "EditorCaption": ""
