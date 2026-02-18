@@ -1,0 +1,12 @@
+﻿/.vs
+/.vscode
+
+/tests/.vs
+/tests/.vscode
+/tests/bin
+/tests/obj
+
+/lesson/.vs
+/lesson/.vscode
+/lesson/bin
+/lesson/obj
