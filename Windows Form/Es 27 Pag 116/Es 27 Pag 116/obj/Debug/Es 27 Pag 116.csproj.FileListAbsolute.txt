@@ -1,0 +1,10 @@
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Windows Form\Es 27 Pag 116\Es 27 Pag 116\bin\Debug\Es 27 Pag 116.exe.config
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Windows Form\Es 27 Pag 116\Es 27 Pag 116\bin\Debug\Es 27 Pag 116.exe
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Windows Form\Es 27 Pag 116\Es 27 Pag 116\bin\Debug\Es 27 Pag 116.pdb
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Windows Form\Es 27 Pag 116\Es 27 Pag 116\obj\Debug\Es 27 Pag 116.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Windows Form\Es 27 Pag 116\Es 27 Pag 116\obj\Debug\Es_27_Pag_116.Form1.resources
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Windows Form\Es 27 Pag 116\Es 27 Pag 116\obj\Debug\Es_27_Pag_116.Properties.Resources.resources
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Windows Form\Es 27 Pag 116\Es 27 Pag 116\obj\Debug\Es 27 Pag 116.csproj.GenerateResource.cache
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Windows Form\Es 27 Pag 116\Es 27 Pag 116\obj\Debug\Es 27 Pag 116.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Windows Form\Es 27 Pag 116\Es 27 Pag 116\obj\Debug\Es 27 Pag 116.exe
+C:\Users\elena\OneDrive\Desktop\3a INF\Informatica\Windows Form\Es 27 Pag 116\Es 27 Pag 116\obj\Debug\Es 27 Pag 116.pdb
