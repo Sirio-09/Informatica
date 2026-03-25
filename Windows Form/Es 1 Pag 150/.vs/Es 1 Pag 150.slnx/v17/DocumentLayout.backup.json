@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s.perrone.4104\\Desktop\\Es 1 Pag 150\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD237CD-7B65-45C5-9FF1-BB8898DBFB82}|Es 1 Pag 150\\Es 1 Pag 150.csproj|c:\\users\\s.perrone.4104\\desktop\\es 1 pag 150\\es 1 pag 150\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDD237CD-7B65-45C5-9FF1-BB8898DBFB82}|Es 1 Pag 150\\Es 1 Pag 150.csproj|solutionrelative:es 1 pag 150\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD237CD-7B65-45C5-9FF1-BB8898DBFB82}|Es 1 Pag 150\\Es 1 Pag 150.csproj|c:\\users\\s.perrone.4104\\desktop\\es 1 pag 150\\es 1 pag 150\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD237CD-7B65-45C5-9FF1-BB8898DBFB82}|Es 1 Pag 150\\Es 1 Pag 150.csproj|solutionrelative:es 1 pag 150\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\s.perrone.4104\\Desktop\\Es 1 Pag 150\\Es 1 Pag 150\\Form1.cs",
+              "RelativeDocumentMoniker": "Es 1 Pag 150\\Form1.cs",
+              "ToolTip": "C:\\Users\\s.perrone.4104\\Desktop\\Es 1 Pag 150\\Es 1 Pag 150\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "Es 1 Pag 150\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T09:12:06.748Z",
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s.perrone.4104\\Desktop\\Es 1 Pag 150\\Es 1 Pag 150\\Program.cs",
+              "RelativeDocumentMoniker": "Es 1 Pag 150\\Program.cs",
+              "ToolTip": "C:\\Users\\s.perrone.4104\\Desktop\\Es 1 Pag 150\\Es 1 Pag 150\\Program.cs",
+              "RelativeToolTip": "Es 1 Pag 150\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T09:12:02.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
