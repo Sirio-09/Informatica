@@ -1,0 +1,10 @@
+C:\Users\elena\OneDrive\Desktop\Es Pag 160\Es Pag 160\bin\Debug\Es Pag 160.exe.config
+C:\Users\elena\OneDrive\Desktop\Es Pag 160\Es Pag 160\bin\Debug\Es Pag 160.exe
+C:\Users\elena\OneDrive\Desktop\Es Pag 160\Es Pag 160\bin\Debug\Es Pag 160.pdb
+C:\Users\elena\OneDrive\Desktop\Es Pag 160\Es Pag 160\obj\Debug\Es Pag 160.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Desktop\Es Pag 160\Es Pag 160\obj\Debug\Es_Pag_160.Form1.resources
+C:\Users\elena\OneDrive\Desktop\Es Pag 160\Es Pag 160\obj\Debug\Es_Pag_160.Properties.Resources.resources
+C:\Users\elena\OneDrive\Desktop\Es Pag 160\Es Pag 160\obj\Debug\Es Pag 160.csproj.GenerateResource.cache
+C:\Users\elena\OneDrive\Desktop\Es Pag 160\Es Pag 160\obj\Debug\Es Pag 160.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Desktop\Es Pag 160\Es Pag 160\obj\Debug\Es Pag 160.exe
+C:\Users\elena\OneDrive\Desktop\Es Pag 160\Es Pag 160\obj\Debug\Es Pag 160.pdb
