@@ -1,0 +1,11 @@
+C:\Users\s.perrone.4104\Desktop\Es Pag 168\Es Pag 168\bin\Debug\Es Pag 168.exe.config
+C:\Users\s.perrone.4104\Desktop\Es Pag 168\Es Pag 168\bin\Debug\Es Pag 168.exe
+C:\Users\s.perrone.4104\Desktop\Es Pag 168\Es Pag 168\bin\Debug\Es Pag 168.pdb
+C:\Users\s.perrone.4104\Desktop\Es Pag 168\Es Pag 168\obj\Debug\Es Pag 168.csproj.AssemblyReference.cache
+C:\Users\s.perrone.4104\Desktop\Es Pag 168\Es Pag 168\obj\Debug\Es_Pag_168.Form1.resources
+C:\Users\s.perrone.4104\Desktop\Es Pag 168\Es Pag 168\obj\Debug\Es_Pag_168.Properties.Resources.resources
+C:\Users\s.perrone.4104\Desktop\Es Pag 168\Es Pag 168\obj\Debug\Es Pag 168.csproj.GenerateResource.cache
+C:\Users\s.perrone.4104\Desktop\Es Pag 168\Es Pag 168\obj\Debug\Es Pag 168.csproj.CoreCompileInputs.cache
+C:\Users\s.perrone.4104\Desktop\Es Pag 168\Es Pag 168\obj\Debug\Es Pag 168.exe
+C:\Users\s.perrone.4104\Desktop\Es Pag 168\Es Pag 168\obj\Debug\Es Pag 168.pdb
+C:\Users\s.perrone.4104\Desktop\Es Pag 168\Es Pag 168\obj\Debug\Es Pag 168.exe.config
