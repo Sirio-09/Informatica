@@ -1,0 +1,7 @@
+C:\Users\elena\OneDrive\Desktop\Mod 1 Es B\Mod 1 Es B\bin\Debug\Mod 1 Es B.exe.config
+C:\Users\elena\OneDrive\Desktop\Mod 1 Es B\Mod 1 Es B\bin\Debug\Mod 1 Es B.exe
+C:\Users\elena\OneDrive\Desktop\Mod 1 Es B\Mod 1 Es B\bin\Debug\Mod 1 Es B.pdb
+C:\Users\elena\OneDrive\Desktop\Mod 1 Es B\Mod 1 Es B\obj\Debug\Mod 1 Es B.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Desktop\Mod 1 Es B\Mod 1 Es B\obj\Debug\Mod 1 Es B.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Desktop\Mod 1 Es B\Mod 1 Es B\obj\Debug\Mod 1 Es B.exe
+C:\Users\elena\OneDrive\Desktop\Mod 1 Es B\Mod 1 Es B\obj\Debug\Mod 1 Es B.pdb
