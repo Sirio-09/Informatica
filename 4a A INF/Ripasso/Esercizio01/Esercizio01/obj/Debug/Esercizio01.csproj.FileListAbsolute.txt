@@ -1,0 +1,11 @@
+C:\Users\giampaolo.maggiore\Desktop\Ripasso\Esercizio01\Esercizio01\bin\Debug\Esercizio01.exe.config
+C:\Users\giampaolo.maggiore\Desktop\Ripasso\Esercizio01\Esercizio01\bin\Debug\Esercizio01.exe
+C:\Users\giampaolo.maggiore\Desktop\Ripasso\Esercizio01\Esercizio01\bin\Debug\Esercizio01.pdb
+C:\Users\giampaolo.maggiore\Desktop\Ripasso\Esercizio01\Esercizio01\obj\Debug\Esercizio01.csproj.AssemblyReference.cache
+C:\Users\giampaolo.maggiore\Desktop\Ripasso\Esercizio01\Esercizio01\obj\Debug\Esercizio01.Form1.resources
+C:\Users\giampaolo.maggiore\Desktop\Ripasso\Esercizio01\Esercizio01\obj\Debug\Esercizio01.Properties.Resources.resources
+C:\Users\giampaolo.maggiore\Desktop\Ripasso\Esercizio01\Esercizio01\obj\Debug\Esercizio01.csproj.GenerateResource.cache
+C:\Users\giampaolo.maggiore\Desktop\Ripasso\Esercizio01\Esercizio01\obj\Debug\Esercizio01.csproj.CoreCompileInputs.cache
+C:\Users\giampaolo.maggiore\Desktop\Ripasso\Esercizio01\Esercizio01\obj\Debug\Esercizio01.exe
+C:\Users\giampaolo.maggiore\Desktop\Ripasso\Esercizio01\Esercizio01\obj\Debug\Esercizio01.pdb
+C:\Users\giampaolo.maggiore\Desktop\Ripasso\Esercizio01\Esercizio01\obj\Debug\Esercizio01.exe.config
