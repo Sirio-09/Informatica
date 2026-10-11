@@ -1,0 +1,7 @@
+C:\Users\elena\OneDrive\Desktop\Esercizio 4.1\Esercizio 4.1\bin\Debug\Esercizio 4.1.exe.config
+C:\Users\elena\OneDrive\Desktop\Esercizio 4.1\Esercizio 4.1\bin\Debug\Esercizio 4.1.exe
+C:\Users\elena\OneDrive\Desktop\Esercizio 4.1\Esercizio 4.1\bin\Debug\Esercizio 4.1.pdb
+C:\Users\elena\OneDrive\Desktop\Esercizio 4.1\Esercizio 4.1\obj\Debug\Esercizio 4.1.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Desktop\Esercizio 4.1\Esercizio 4.1\obj\Debug\Esercizio 4.1.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Desktop\Esercizio 4.1\Esercizio 4.1\obj\Debug\Esercizio 4.1.exe
+C:\Users\elena\OneDrive\Desktop\Esercizio 4.1\Esercizio 4.1\obj\Debug\Esercizio 4.1.pdb
