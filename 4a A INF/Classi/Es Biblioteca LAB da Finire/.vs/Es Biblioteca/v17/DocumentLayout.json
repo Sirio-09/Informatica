@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s.perrone.4104\\Desktop\\Es Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|c:\\users\\s.perrone.4104\\desktop\\es biblioteca\\es biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|solutionrelative:es biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|c:\\users\\s.perrone.4104\\desktop\\es biblioteca\\es biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|solutionrelative:es biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|c:\\users\\s.perrone.4104\\desktop\\es biblioteca\\es biblioteca\\rivista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|solutionrelative:es biblioteca\\rivista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|c:\\users\\s.perrone.4104\\desktop\\es biblioteca\\es biblioteca\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|solutionrelative:es biblioteca\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|c:\\users\\s.perrone.4104\\desktop\\es biblioteca\\es biblioteca\\pubblicazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|solutionrelative:es biblioteca\\pubblicazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|c:\\users\\s.perrone.4104\\desktop\\es biblioteca\\es biblioteca\\libreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|solutionrelative:es biblioteca\\libreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Libreria.cs",
+              "DocumentMoniker": "C:\\Users\\s.perrone.4104\\Desktop\\Es Biblioteca\\Es Biblioteca\\Libreria.cs",
+              "RelativeDocumentMoniker": "Es Biblioteca\\Libreria.cs",
+              "ToolTip": "C:\\Users\\s.perrone.4104\\Desktop\\Es Biblioteca\\Es Biblioteca\\Libreria.cs",
+              "RelativeToolTip": "Es Biblioteca\\Libreria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T09:27:27.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\s.perrone.4104\\Desktop\\Es Biblioteca\\Es Biblioteca\\Libro.cs",
+              "RelativeDocumentMoniker": "Es Biblioteca\\Libro.cs",
+              "ToolTip": "C:\\Users\\s.perrone.4104\\Desktop\\Es Biblioteca\\Es Biblioteca\\Libro.cs",
+              "RelativeToolTip": "Es Biblioteca\\Libro.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T09:15:57.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rivista.cs",
+              "DocumentMoniker": "C:\\Users\\s.perrone.4104\\Desktop\\Es Biblioteca\\Es Biblioteca\\Rivista.cs",
+              "RelativeDocumentMoniker": "Es Biblioteca\\Rivista.cs",
+              "ToolTip": "C:\\Users\\s.perrone.4104\\Desktop\\Es Biblioteca\\Es Biblioteca\\Rivista.cs",
+              "RelativeToolTip": "Es Biblioteca\\Rivista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T09:22:54.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pubblicazione.cs",
+              "DocumentMoniker": "C:\\Users\\s.perrone.4104\\Desktop\\Es Biblioteca\\Es Biblioteca\\Pubblicazione.cs",
+              "RelativeDocumentMoniker": "Es Biblioteca\\Pubblicazione.cs",
+              "ToolTip": "C:\\Users\\s.perrone.4104\\Desktop\\Es Biblioteca\\Es Biblioteca\\Pubblicazione.cs",
+              "RelativeToolTip": "Es Biblioteca\\Pubblicazione.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T09:04:13.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\s.perrone.4104\\Desktop\\Es Biblioteca\\Es Biblioteca\\Form1.cs",
+              "RelativeDocumentMoniker": "Es Biblioteca\\Form1.cs",
+              "ToolTip": "C:\\Users\\s.perrone.4104\\Desktop\\Es Biblioteca\\Es Biblioteca\\Form1.cs",
+              "RelativeToolTip": "Es Biblioteca\\Form1.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAgwC8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T09:08:06.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\s.perrone.4104\\Desktop\\Es Biblioteca\\Es Biblioteca\\Form1.cs",
+              "RelativeDocumentMoniker": "Es Biblioteca\\Form1.cs",
+              "ToolTip": "C:\\Users\\s.perrone.4104\\Desktop\\Es Biblioteca\\Es Biblioteca\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "Es Biblioteca\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T09:03:15.344Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
