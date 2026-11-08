@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Es Biblioteca LAB da Finire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Es Biblioteca LAB da Finire\\es biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|solutionrelative:es biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|c:\\users\\elena\\onedrive\\desktop\\progetti\\informatica\\4a a inf\\classi\\es biblioteca lab da finire\\es biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|solutionrelative:es biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|c:\\users\\elena\\onedrive\\desktop\\progetti\\informatica\\4a a inf\\classi\\es biblioteca lab da finire\\es biblioteca\\pubblicazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|solutionrelative:es biblioteca\\pubblicazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Es Biblioteca LAB da Finire\\es biblioteca\\libreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|solutionrelative:es biblioteca\\libreria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Es Biblioteca LAB da Finire\\es biblioteca\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C79A49-4047-400E-8C3F-889F3FBEDE84}|Es Biblioteca\\Es Biblioteca.csproj|solutionrelative:es biblioteca\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pubblicazione.cs",
+              "DocumentMoniker": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Es Biblioteca LAB da Finire\\Es Biblioteca\\Pubblicazione.cs",
+              "RelativeDocumentMoniker": "Es Biblioteca\\Pubblicazione.cs",
+              "ToolTip": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Es Biblioteca LAB da Finire\\Es Biblioteca\\Pubblicazione.cs",
+              "RelativeToolTip": "Es Biblioteca\\Pubblicazione.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T15:51:21.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Libreria.cs",
+              "DocumentMoniker": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Es Biblioteca LAB da Finire\\Es Biblioteca\\Libreria.cs",
+              "RelativeDocumentMoniker": "Es Biblioteca\\Libreria.cs",
+              "ToolTip": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Es Biblioteca LAB da Finire\\Es Biblioteca\\Libreria.cs",
+              "RelativeToolTip": "Es Biblioteca\\Libreria.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T15:12:17.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Es Biblioteca LAB da Finire\\Es Biblioteca\\Libro.cs",
+              "RelativeDocumentMoniker": "Es Biblioteca\\Libro.cs",
+              "ToolTip": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Es Biblioteca LAB da Finire\\Es Biblioteca\\Libro.cs",
+              "RelativeToolTip": "Es Biblioteca\\Libro.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T15:12:17.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Es Biblioteca LAB da Finire\\Es Biblioteca\\Form1.cs",
+              "RelativeDocumentMoniker": "Es Biblioteca\\Form1.cs",
+              "ToolTip": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Es Biblioteca LAB da Finire\\Es Biblioteca\\Form1.cs",
+              "RelativeToolTip": "Es Biblioteca\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowHMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T15:12:17.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Es Biblioteca LAB da Finire\\Es Biblioteca\\Form1.cs",
+              "RelativeDocumentMoniker": "Es Biblioteca\\Form1.cs",
+              "ToolTip": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Es Biblioteca LAB da Finire\\Es Biblioteca\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "Es Biblioteca\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T15:12:17.239Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

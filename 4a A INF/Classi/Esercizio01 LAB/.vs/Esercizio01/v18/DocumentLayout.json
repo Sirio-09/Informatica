@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Esercizio01 LAB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E07FB2EA-9648-4E32-BF1A-994C4D1CC2A5}|Esercizio01\\Esercizio01.csproj|c:\\users\\elena\\onedrive\\desktop\\progetti\\informatica\\4a a inf\\classi\\esercizio01 lab\\esercizio01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E07FB2EA-9648-4E32-BF1A-994C4D1CC2A5}|Esercizio01\\Esercizio01.csproj|solutionrelative:esercizio01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07FB2EA-9648-4E32-BF1A-994C4D1CC2A5}|Esercizio01\\Esercizio01.csproj|C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Esercizio01 LAB\\esercizio01\\clsmoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07FB2EA-9648-4E32-BF1A-994C4D1CC2A5}|Esercizio01\\Esercizio01.csproj|solutionrelative:esercizio01\\clsmoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07FB2EA-9648-4E32-BF1A-994C4D1CC2A5}|Esercizio01\\Esercizio01.csproj|C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Esercizio01 LAB\\esercizio01\\clsastratta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07FB2EA-9648-4E32-BF1A-994C4D1CC2A5}|Esercizio01\\Esercizio01.csproj|solutionrelative:esercizio01\\clsastratta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07FB2EA-9648-4E32-BF1A-994C4D1CC2A5}|Esercizio01\\Esercizio01.csproj|C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Esercizio01 LAB\\esercizio01\\clsauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07FB2EA-9648-4E32-BF1A-994C4D1CC2A5}|Esercizio01\\Esercizio01.csproj|solutionrelative:esercizio01\\clsauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07FB2EA-9648-4E32-BF1A-994C4D1CC2A5}|Esercizio01\\Esercizio01.csproj|C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Esercizio01 LAB\\esercizio01\\clsveicoli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07FB2EA-9648-4E32-BF1A-994C4D1CC2A5}|Esercizio01\\Esercizio01.csproj|solutionrelative:esercizio01\\clsveicoli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07FB2EA-9648-4E32-BF1A-994C4D1CC2A5}|Esercizio01\\Esercizio01.csproj|C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Esercizio01 LAB\\esercizio01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07FB2EA-9648-4E32-BF1A-994C4D1CC2A5}|Esercizio01\\Esercizio01.csproj|solutionrelative:esercizio01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsMoto.cs",
+              "DocumentMoniker": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Esercizio01 LAB\\Esercizio01\\clsMoto.cs",
+              "RelativeDocumentMoniker": "Esercizio01\\clsMoto.cs",
+              "ToolTip": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Esercizio01 LAB\\Esercizio01\\clsMoto.cs",
+              "RelativeToolTip": "Esercizio01\\clsMoto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwEEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T16:02:09.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsAstratta.cs",
+              "DocumentMoniker": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Esercizio01 LAB\\Esercizio01\\clsAstratta.cs",
+              "RelativeDocumentMoniker": "Esercizio01\\clsAstratta.cs",
+              "ToolTip": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Esercizio01 LAB\\Esercizio01\\clsAstratta.cs",
+              "RelativeToolTip": "Esercizio01\\clsAstratta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T16:02:09.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsAuto.cs",
+              "DocumentMoniker": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Esercizio01 LAB\\Esercizio01\\clsAuto.cs",
+              "RelativeDocumentMoniker": "Esercizio01\\clsAuto.cs",
+              "ToolTip": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Esercizio01 LAB\\Esercizio01\\clsAuto.cs",
+              "RelativeToolTip": "Esercizio01\\clsAuto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T16:02:09.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsVeicoli.cs",
+              "DocumentMoniker": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Esercizio01 LAB\\Esercizio01\\clsVeicoli.cs",
+              "RelativeDocumentMoniker": "Esercizio01\\clsVeicoli.cs",
+              "ToolTip": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Esercizio01 LAB\\Esercizio01\\clsVeicoli.cs",
+              "RelativeToolTip": "Esercizio01\\clsVeicoli.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAswB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T16:02:09.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Esercizio01 LAB\\Esercizio01\\Form1.cs",
+              "RelativeDocumentMoniker": "Esercizio01\\Form1.cs",
+              "ToolTip": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Esercizio01 LAB\\Esercizio01\\Form1.cs",
+              "RelativeToolTip": "Esercizio01\\Form1.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAuwNAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T16:02:09.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Esercizio01 LAB\\Esercizio01\\Form1.cs",
+              "RelativeDocumentMoniker": "Esercizio01\\Form1.cs",
+              "ToolTip": "C:\\Users\\elena\\OneDrive\\Desktop\\Progetti\\Informatica\\4a A INF\\Classi\\Esercizio01 LAB\\Esercizio01\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "Esercizio01\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T16:02:10.222Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

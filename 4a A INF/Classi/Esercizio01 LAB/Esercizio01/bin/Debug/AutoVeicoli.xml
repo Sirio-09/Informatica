@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClsAuto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <clsAuto>
+    <Marca>M1</Marca>
+    <Colore>C1</Colore>
+    <Modello>MD1</Modello>
+    <Cilindrata>1200</Cilindrata>
+    <DataImmatricolazione>2018-06-22T11:47:09</DataImmatricolazione>
+    <NumPorte>5</NumPorte>
+    <Elettrica>false</Elettrica>
+  </clsAuto>
+  <clsAuto>
+    <Marca>M1</Marca>
+    <Colore>C2</Colore>
+    <Modello>MD2</Modello>
+    <Cilindrata>2500</Cilindrata>
+    <DataImmatricolazione>2023-09-10T11:47:44</DataImmatricolazione>
+    <NumPorte>3</NumPorte>
+    <Elettrica>true</Elettrica>
+  </clsAuto>
+  <clsAuto>
+    <Marca>M2</Marca>
+    <Colore>C9</Colore>
+    <Modello>MD3</Modello>
+    <Cilindrata>1500</Cilindrata>
+    <DataImmatricolazione>1979-03-14T11:48:20</DataImmatricolazione>
+    <NumPorte>2</NumPorte>
+    <Elettrica>false</Elettrica>
+  </clsAuto>
+</ArrayOfClsAuto>

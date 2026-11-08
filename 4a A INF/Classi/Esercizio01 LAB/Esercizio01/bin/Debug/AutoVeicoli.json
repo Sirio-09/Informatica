@@ -1,0 +1,29 @@
+[
+  {
+    "NumPorte": 5,
+    "Elettrica": false,
+    "Marca": "M1",
+    "Colore": "C1",
+    "Modello": "MD1",
+    "Cilindrata": 1200,
+    "DataImmatricolazione": "2018-06-22T11:47:09"
+  },
+  {
+    "NumPorte": 3,
+    "Elettrica": true,
+    "Marca": "M1",
+    "Colore": "C2",
+    "Modello": "MD2",
+    "Cilindrata": 2500,
+    "DataImmatricolazione": "2023-09-10T11:47:44"
+  },
+  {
+    "NumPorte": 2,
+    "Elettrica": false,
+    "Marca": "M2",
+    "Colore": "C9",
+    "Modello": "MD3",
+    "Cilindrata": 1500,
+    "DataImmatricolazione": "1979-03-14T11:48:20"
+  }
+]
