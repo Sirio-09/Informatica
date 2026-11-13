@@ -1,0 +1,36 @@
+Gestione di un Negozio di Abbigliamento
+
+> classe base INDUMENTI [clsIndumenti]
+	- Marca (chi produce)
+	- Prezzo (€)
+	- Colore ()
+	- Materiale (con che cosa è fatto)
+	- Genere (Uomo/Donna/Bambino/Bambina)
+
+> classe MAGLIE [clsMaglie]
+	- Tipo (felpa, t-shirt, polo, canotta)
+	- Taglia (XS, S, M, L, XL, XXL, XXXL)
+	- Manica (Lunga / Corta / MezzaManica / Smanicata)
+	- Apertura (Zip, bottoni, velcro, senza)
+
+> classe PANTALONI [clsPantaloni]
+	- Tipo (jeans, felpati, leggins, classici)
+	- Taglia (44, 46, 48, 50, 52, 54, 56, 58, 60)
+	- lunghezza (lunghi, corti, pinocchietti)
+	- vestibilità (slim, skinny)
+
+> classe SCARPE [clsScarpe]
+	- Tipologia (sandali, da ginnastica, mocassini, stivali, ciabatte)
+	- Numero (18 .. 50)
+	- Apertura (lacci, velcro, zip, aperte)
+	- Suola (cuoio, gomma, plastica, legno)
+
+> classe GIACCHE [clsGiacche]
+	- Tiplogia (impermeabile, piumino, giacca, kway, giubbotto, cappotto)
+	- Taglia (XS, S, M, L, XL, XXL, XXXL)
+	- Stagione (invernale, estivo, primaverile)
+
+> classe BORSE [clsBorse]
+	- Tipo (tracolla, zainetto, marsupio, pochette)
+	- Taglia (piccola, media, grande)
+	- Stagione (invernale, estivo)

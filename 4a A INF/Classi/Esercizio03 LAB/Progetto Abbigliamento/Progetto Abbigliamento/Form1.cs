@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Progetto_Abbigliamento
+{
+    public partial class Form1 : Form
+    {
+        List<clsIndumenti> inventario = new List<clsIndumenti>();
+
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        
+
+    }
+}

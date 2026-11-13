@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\4a A INF\\Classi\\Esercizio03 LAB\\Progetto Abbigliamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66D426D2-A35B-4379-8481-D5470300A682}|Progetto Abbigliamento\\Progetto Abbigliamento.csproj|c:\\users\\s.perrone.4104\\desktop\\informatica\\4a a inf\\classi\\esercizio03 lab\\progetto abbigliamento\\progetto abbigliamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66D426D2-A35B-4379-8481-D5470300A682}|Progetto Abbigliamento\\Progetto Abbigliamento.csproj|solutionrelative:progetto abbigliamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D426D2-A35B-4379-8481-D5470300A682}|Progetto Abbigliamento\\Progetto Abbigliamento.csproj|c:\\users\\s.perrone.4104\\desktop\\informatica\\4a a inf\\classi\\esercizio03 lab\\progetto abbigliamento\\progetto abbigliamento\\clsmaglie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D426D2-A35B-4379-8481-D5470300A682}|Progetto Abbigliamento\\Progetto Abbigliamento.csproj|solutionrelative:progetto abbigliamento\\clsmaglie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D426D2-A35B-4379-8481-D5470300A682}|Progetto Abbigliamento\\Progetto Abbigliamento.csproj|c:\\users\\s.perrone.4104\\desktop\\informatica\\4a a inf\\classi\\esercizio03 lab\\progetto abbigliamento\\progetto abbigliamento\\clsindumenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D426D2-A35B-4379-8481-D5470300A682}|Progetto Abbigliamento\\Progetto Abbigliamento.csproj|solutionrelative:progetto abbigliamento\\clsindumenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D426D2-A35B-4379-8481-D5470300A682}|Progetto Abbigliamento\\Progetto Abbigliamento.csproj|c:\\users\\s.perrone.4104\\desktop\\informatica\\4a a inf\\classi\\esercizio03 lab\\progetto abbigliamento\\progetto abbigliamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D426D2-A35B-4379-8481-D5470300A682}|Progetto Abbigliamento\\Progetto Abbigliamento.csproj|solutionrelative:progetto abbigliamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D426D2-A35B-4379-8481-D5470300A682}|Progetto Abbigliamento\\Progetto Abbigliamento.csproj|c:\\users\\s.perrone.4104\\desktop\\informatica\\4a a inf\\classi\\esercizio03 lab\\progetto abbigliamento\\progetto abbigliamento\\clsborse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D426D2-A35B-4379-8481-D5470300A682}|Progetto Abbigliamento\\Progetto Abbigliamento.csproj|solutionrelative:progetto abbigliamento\\clsborse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D426D2-A35B-4379-8481-D5470300A682}|Progetto Abbigliamento\\Progetto Abbigliamento.csproj|c:\\users\\s.perrone.4104\\desktop\\informatica\\4a a inf\\classi\\esercizio03 lab\\progetto abbigliamento\\progetto abbigliamento\\clsgiacche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D426D2-A35B-4379-8481-D5470300A682}|Progetto Abbigliamento\\Progetto Abbigliamento.csproj|solutionrelative:progetto abbigliamento\\clsgiacche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D426D2-A35B-4379-8481-D5470300A682}|Progetto Abbigliamento\\Progetto Abbigliamento.csproj|c:\\users\\s.perrone.4104\\desktop\\informatica\\4a a inf\\classi\\esercizio03 lab\\progetto abbigliamento\\progetto abbigliamento\\clsscarpe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D426D2-A35B-4379-8481-D5470300A682}|Progetto Abbigliamento\\Progetto Abbigliamento.csproj|solutionrelative:progetto abbigliamento\\clsscarpe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D426D2-A35B-4379-8481-D5470300A682}|Progetto Abbigliamento\\Progetto Abbigliamento.csproj|c:\\users\\s.perrone.4104\\desktop\\informatica\\4a a inf\\classi\\esercizio03 lab\\progetto abbigliamento\\progetto abbigliamento\\clspantaloni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D426D2-A35B-4379-8481-D5470300A682}|Progetto Abbigliamento\\Progetto Abbigliamento.csproj|solutionrelative:progetto abbigliamento\\clspantaloni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsIndumenti.cs",
+              "DocumentMoniker": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\4a A INF\\Classi\\Esercizio03 LAB\\Progetto Abbigliamento\\Progetto Abbigliamento\\clsIndumenti.cs",
+              "RelativeDocumentMoniker": "Progetto Abbigliamento\\clsIndumenti.cs",
+              "ToolTip": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\4a A INF\\Classi\\Esercizio03 LAB\\Progetto Abbigliamento\\Progetto Abbigliamento\\clsIndumenti.cs",
+              "RelativeToolTip": "Progetto Abbigliamento\\clsIndumenti.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T09:18:52.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsMaglie.cs",
+              "DocumentMoniker": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\4a A INF\\Classi\\Esercizio03 LAB\\Progetto Abbigliamento\\Progetto Abbigliamento\\clsMaglie.cs",
+              "RelativeDocumentMoniker": "Progetto Abbigliamento\\clsMaglie.cs",
+              "ToolTip": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\4a A INF\\Classi\\Esercizio03 LAB\\Progetto Abbigliamento\\Progetto Abbigliamento\\clsMaglie.cs",
+              "RelativeToolTip": "Progetto Abbigliamento\\clsMaglie.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T09:23:43.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsScarpe.cs",
+              "DocumentMoniker": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\4a A INF\\Classi\\Esercizio03 LAB\\Progetto Abbigliamento\\Progetto Abbigliamento\\clsScarpe.cs",
+              "RelativeDocumentMoniker": "Progetto Abbigliamento\\clsScarpe.cs",
+              "ToolTip": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\4a A INF\\Classi\\Esercizio03 LAB\\Progetto Abbigliamento\\Progetto Abbigliamento\\clsScarpe.cs",
+              "RelativeToolTip": "Progetto Abbigliamento\\clsScarpe.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T09:32:27.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsGiacche.cs",
+              "DocumentMoniker": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\4a A INF\\Classi\\Esercizio03 LAB\\Progetto Abbigliamento\\Progetto Abbigliamento\\clsGiacche.cs",
+              "RelativeDocumentMoniker": "Progetto Abbigliamento\\clsGiacche.cs",
+              "ToolTip": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\4a A INF\\Classi\\Esercizio03 LAB\\Progetto Abbigliamento\\Progetto Abbigliamento\\clsGiacche.cs",
+              "RelativeToolTip": "Progetto Abbigliamento\\clsGiacche.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T09:38:08.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsBorse.cs",
+              "DocumentMoniker": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\4a A INF\\Classi\\Esercizio03 LAB\\Progetto Abbigliamento\\Progetto Abbigliamento\\clsBorse.cs",
+              "RelativeDocumentMoniker": "Progetto Abbigliamento\\clsBorse.cs",
+              "ToolTip": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\4a A INF\\Classi\\Esercizio03 LAB\\Progetto Abbigliamento\\Progetto Abbigliamento\\clsBorse.cs",
+              "RelativeToolTip": "Progetto Abbigliamento\\clsBorse.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T10:04:50.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\4a A INF\\Classi\\Esercizio03 LAB\\Progetto Abbigliamento\\Progetto Abbigliamento\\Form1.cs",
+              "RelativeDocumentMoniker": "Progetto Abbigliamento\\Form1.cs",
+              "ToolTip": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\4a A INF\\Classi\\Esercizio03 LAB\\Progetto Abbigliamento\\Progetto Abbigliamento\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "Progetto Abbigliamento\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T09:17:37.465Z",
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\4a A INF\\Classi\\Esercizio03 LAB\\Progetto Abbigliamento\\Progetto Abbigliamento\\Form1.cs",
+              "RelativeDocumentMoniker": "Progetto Abbigliamento\\Form1.cs",
+              "ToolTip": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\4a A INF\\Classi\\Esercizio03 LAB\\Progetto Abbigliamento\\Progetto Abbigliamento\\Form1.cs",
+              "RelativeToolTip": "Progetto Abbigliamento\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T10:31:03.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsPantaloni.cs",
+              "DocumentMoniker": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\4a A INF\\Classi\\Esercizio03 LAB\\Progetto Abbigliamento\\Progetto Abbigliamento\\clsPantaloni.cs",
+              "RelativeDocumentMoniker": "Progetto Abbigliamento\\clsPantaloni.cs",
+              "ToolTip": "C:\\Users\\s.perrone.4104\\Desktop\\Informatica\\4a A INF\\Classi\\Esercizio03 LAB\\Progetto Abbigliamento\\Progetto Abbigliamento\\clsPantaloni.cs",
+              "RelativeToolTip": "Progetto Abbigliamento\\clsPantaloni.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T09:27:48.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
